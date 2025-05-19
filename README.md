@@ -9,7 +9,7 @@ I am **Mayank Kumar**, a Software Developer passionate about **AI, Automation, a
 - 🌟 **AI & Automation Enthusiast** with expertise in Machine Learning, Data Processing, and Web Development.
 - 📚 Currently expanding my knowledge in **Cloud Computing & Large-Scale AI Solutions**.
 - 👨‍💻 Open to **collaborations** on projects related to AI, ML, and Web Development.
-- 💌 Feel free to **reach out** via [LinkedIn](https://in/mayankkumar-tech).
+- 💌 Feel free to **reach out** via [LinkedIn]([https://in/mayankkumar-tech](https://www.linkedin.com/in/mayankkumar-tech/)).
 
 ---
 
