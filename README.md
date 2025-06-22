@@ -32,7 +32,10 @@ A Deribit testnet integration to subscribe to live **BTC-Perpetual and Options t
 ---
 
 ### 🔹 [BNI Scraper](https://github.com/Mayank8kumar/Bni-Scraper)
-Scraper built to extract structured data from the BNI website using Python, with robust handling and storage for later analysis.
+Automates data extraction, validation, and cleaning from the BNI website to analyze networking groups and members.
+
+- Extracts and validates structured data using Selenium and BeautifulSoup
+- Performs data cleaning and stores results in organized formats for analysis
 
 > 🧠 **Tech Stack:** Python, Selenium, BeautifulSoup, Pandas, Jupyter Notebook
 
@@ -59,7 +62,10 @@ A machine learning project that predicts diabetes using **K-Nearest Neighbors (K
 ---
 
 ### 🔹 [AI Personal Chef](https://github.com/Mayank8kumar/AI_personal_chef)
-AI-powered app suggesting recipes based on your available ingredients and preferences.
+AI-powered app suggesting recipes based on your available ingredients, preferences and nutrition info. 
+
+- Uses OpenAI to generate custom recipes, steps, and nutrition info
+- Dynamic Flask backend that responds to real-time input and preferences
 
 > 🧠 **Tech Stack:** Python, Flask, OpenAI API, Langchain
 
