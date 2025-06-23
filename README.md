@@ -94,7 +94,7 @@ I'm open to contributing to **AI, ML, Web Automation, or Cloud-Based** projects.
 ---
 
 ## 📫 Let's Connect
-- [🔗 LinkedIn](https://www.linkedin.com/in/mayank8kumar/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/mayankkumar-tech/)
 - 📬 Feel free to reach out for collaboration or discussion.
 
 ---
